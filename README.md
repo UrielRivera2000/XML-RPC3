@@ -6,7 +6,7 @@ esta informacion la va a imprimir en un mensaje que diga “Hola, el producto es
   - Cliente que consuma el servicio
   - Nota:  _Consumir el servicio con postman._
 
-[Imagen de envidencia en postman](https://github.com/UrielRivera2000/XML-RPC2/blob/main/EvidenciaEnPostman.png) 
+[Imagen de envidencia en postman](https://github.com/UrielRivera2000/XML-RPC3/blob/main/EvidenciaPostman.png) 
 ## Detalles  🚀
 _Es un ejemplo de un servico XML-RPC sencillo._
 
